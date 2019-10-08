@@ -1,0 +1,38 @@
+hand luggage
+
+
+pgs       55*40*20    8kg,
+
+
+vueling   55*40*20  10kg,   35*20*20 
+
+ryan      55*40*20  10kg,   40*20*25  ????
+
+
+eurow    55*40*23   8kg,   40*30*10
+
+
+
+cargo baggage
+
+
+pgs  20kg
+
+
+vueling 15kg
+
+
+ryan 10kg ????
+
+
+euro 23kg
+
+
+
+
+
+SUM 
+
+hand baggage  < 8kg and 55*40*20
+
+cargo baggage< 10 kg and dimensionless
